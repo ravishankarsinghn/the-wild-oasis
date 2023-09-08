@@ -1,8 +1,27 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# The Wild Oasis
 
-Currently, two official plugins are available:
+"The Wild Oasis" is a small boutique hotel with 8 luxurious wooden cabins.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Test Account Credentials
+- Email Address: demo@example.com
+- Password: demo123@
+
+## Tech Stack
+
+- React
+- Supabase
+- React Query
+- React Hook Form
+- Styled Components
+- React Router
+- React Icons
+- React Hot Toast
+- Recharts
+
+
+
+
+
+
+
